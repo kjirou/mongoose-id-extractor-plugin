@@ -1,0 +1,2 @@
+mongoose-id-extractor-plugin
+============================
