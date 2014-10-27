@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-id-extractor-plugin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10 <0.12"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kjirou/mongoose-id-extractor-plugin.git"
+  },
+  "keywords": [
+    "mongoose",
+    "plugin"
+  ],
+  "author": "kjirou",
+  "license": "MIT License",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "2.0.1",
+    "mongoose": "3.8.18"
+  }
+}
