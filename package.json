@@ -1,6 +1,6 @@
 {
   "name": "mongoose-id-extractor-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add {path}_id virtual-paths that is able to extract _id always",
   "main": "index.js",
   "engines": {
